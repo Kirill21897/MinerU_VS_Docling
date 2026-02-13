@@ -1,0 +1,10 @@
+{
+    "models-dir": {
+        "pipeline": "D:/Projects/Pdf-extract-kit_VS_Docling/models",
+        "vlm": "D:/Projects/Pdf-extract-kit_VS_Docling/models"
+    },
+    "device-mode": "cuda",
+    "table-config": {
+        "enable": true
+    }
+}
